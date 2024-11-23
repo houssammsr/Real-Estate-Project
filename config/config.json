@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "hcm",
+      "password": "hcm",
+      "database": "real_estate_db",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "hcm",
+      "password": "hcm",
+      "database": "real_estate_db_test",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "hcm",
+      "password": "hcm",
+      "database": "real_estate_db_production",
+      "host": "127.0.0.1",
+      "dialect": "postgres"
+    }
+  }
+  
